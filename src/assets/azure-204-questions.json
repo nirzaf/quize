@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Which Azure service is used for containerized applications?",
+    "options": ["Azure Kubernetes Service (AKS)", "Azure App Service", "Azure Functions", "Azure Logic Apps"],
+    "correctAnswer": "Azure Kubernetes Service (AKS)",
+    "explanation": "Azure Kubernetes Service (AKS) is specifically designed for managing containerized applications using Kubernetes.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the primary purpose of Azure Cosmos DB?",
+    "options": ["Relational database", "NoSQL database", "Data warehouse", "File storage"],
+    "correctAnswer": "NoSQL database",
+    "explanation": "Azure Cosmos DB is a fully managed NoSQL database service designed for modern app development.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Azure service is used for serverless computing?",
+    "options": ["Azure Virtual Machines", "Azure App Service", "Azure Functions", "Azure Batch"],
+    "correctAnswer": "Azure Functions",
+    "explanation": "Azure Functions is a serverless compute service that enables you to run code on-demand without having to explicitly provision or manage infrastructure.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the purpose of Azure Key Vault?",
+    "options": ["Store and manage secrets", "Manage virtual networks", "Monitor application performance", "Analyze big data"],
+    "correctAnswer": "Store and manage secrets",
+    "explanation": "Azure Key Vault is a cloud service for securely storing and accessing secrets, such as API keys, passwords, certificates, and cryptographic keys.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Azure service is used for message queuing and decoupling applications?",
+    "options": ["Azure Service Bus", "Azure Event Grid", "Azure IoT Hub", "Azure Notification Hubs"],
+    "correctAnswer": "Azure Service Bus",
+    "explanation": "Azure Service Bus is a fully managed enterprise message broker with message queues and publish-subscribe topics.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the maximum size of a single Azure Blob?",
+    "options": ["100 GB", "1 TB", "4.75 TB", "Unlimited"],
+    "correctAnswer": "4.75 TB",
+    "explanation": "The maximum size for a single Azure Blob is 4.75 TB (terabytes) for block blobs and append blobs.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Azure service provides a managed Hadoop and Spark environment?",
+    "options": ["Azure Synapse Analytics", "Azure Data Factory", "Azure HDInsight", "Azure Databricks"],
+    "correctAnswer": "Azure HDInsight",
+    "explanation": "Azure HDInsight is a fully managed, open-source analytics service for enterprises that makes it easy, fast, and cost-effective to process massive amounts of data.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the primary use case for Azure Logic Apps?",
+    "options": ["Workflow automation", "Container orchestration", "Virtual machine management", "Database administration"],
+    "correctAnswer": "Workflow automation",
+    "explanation": "Azure Logic Apps is a cloud service that helps you automate workflows and processes across applications and services.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Azure service is used for real-time data streaming and processing?",
+    "options": ["Azure Stream Analytics", "Azure Data Lake", "Azure Databricks", "Azure SQL Database"],
+    "correctAnswer": "Azure Stream Analytics",
+    "explanation": "Azure Stream Analytics is a real-time analytics and complex event-processing engine designed to analyze and process high volumes of fast streaming data from multiple sources simultaneously.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the purpose of Azure Front Door?",
+    "options": ["Load balancing", "Content delivery", "API management", "All of the above"],
+    "correctAnswer": "All of the above",
+    "explanation": "Azure Front Door is a global, scalable entry-point that uses the Microsoft global edge network to create fast, secure, and widely scalable web applications. It provides load balancing, content delivery, and API management capabilities.",
+    "difficulty": "medium"
+  }
+]
